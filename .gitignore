@@ -1,0 +1,15 @@
+*env/
+venv/
+data/train/
+new_env/
+extra_files/*
+__pycache__/*
+data/01_raw_data/mihir*
+Scripts/
+.streamlit/secrets.toml
+*env*
+deepface/*
+*day*
+.vscode/
+*face_day4/
+data/02_int*
